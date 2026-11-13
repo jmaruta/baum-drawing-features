@@ -11,7 +11,7 @@ version: 1.0.0
 date-released: 2026-11-13
 license: MIT
 repository-code: https://github.com/jmaruta/baum-drawing-features
-doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.24182820 
 preferred-citation:
   type: article
   title: "Rule-based image analysis of tree drawings in older adults: agreement with human coding, reliability, and correlates"

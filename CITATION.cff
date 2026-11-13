@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+tificcff-version: 1.2.0
 message: "If you use this software, please cite the paper and the archived release."
 title: "baum-drawing-features: rule-based image analysis of tree drawings"
 type: software
@@ -29,5 +29,5 @@ preferred-citation:
     - family-names: Inoue
       given-names: Koki
   journal: ""
-  year: 2026
+  year:
   notes: ""

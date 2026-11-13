@@ -1,0 +1,12 @@
+# Tested with Python 3.10–3.13. Minimum versions; newer releases are expected to work.
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+Pillow>=10.0
+opencv-python-headless>=4.8
+scikit-image>=0.22
+# needed only for the scripts in analysis/
+scikit-learn>=1.3
+statsmodels>=0.14
+pingouin>=0.5.4
+matplotlib>=3.8

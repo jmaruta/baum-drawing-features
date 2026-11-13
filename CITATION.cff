@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper and the archived release."
+title: "baum-drawing-features: rule-based image analysis of tree drawings"
+type: software
+authors:
+  - family-names: Maruta
+    given-names: Jumpei
+    orcid: https://orcid.org/0000-0002-6183-9016
+    affiliation: Department of Neuropsychiatry, Graduate School of Medicine, Osaka Metropolitan University
+version: 1.0.0
+date-released: 2026-XX-XX
+license: MIT
+repository-code: https://github.com/YOUR_ACCOUNT/baum-drawing-features
+doi: 10.5281/zenodo.XXXXXXX
+preferred-citation:
+  type: article
+  title: "Rule-based image analysis of tree drawings in older adults: agreement with human coding, reliability, and correlates"
+  authors:
+    - family-names: Maruta
+      given-names: Jumpei
+    - family-names: Taniguchi
+      given-names: Mami
+    - family-names: Sugimoto
+      given-names: Nariaki
+    - family-names: Horimoto
+      given-names: Mai
+    - family-names: Kurozumi
+      given-names: Hideo
+    - family-names: Inoue
+      given-names: Koki
+  journal: "Scientific Reports"
+  year: 2026
+  notes: "submitted"

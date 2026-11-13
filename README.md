@@ -6,7 +6,7 @@ Companion code for:
 
 > Maruta J, Taniguchi M, Sugimoto N, Horimoto M, Kurozumi H, Inoue K. *Rule-based image analysis of tree drawings in older adults: agreement with human coding, reliability, and correlates.* (submitted)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24182820.svg)](10.5281/zenodo.24182820 ) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24183206.svg)](10.5281/zenodo.24183206) 
 
 ## What it does
 

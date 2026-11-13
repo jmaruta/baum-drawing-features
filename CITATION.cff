@@ -8,9 +8,9 @@ authors:
     orcid: https://orcid.org/0000-0002-6183-9016
     affiliation: Department of Neuropsychiatry, Graduate School of Medicine, Osaka Metropolitan University
 version: 1.0.0
-date-released: 2026-XX-XX
+date-released: 2026-11-13
 license: MIT
-repository-code: https://github.com/YOUR_ACCOUNT/baum-drawing-features
+repository-code: https://github.com/jmaruta/baum-drawing-features
 doi: 10.5281/zenodo.XXXXXXX
 preferred-citation:
   type: article
@@ -28,6 +28,6 @@ preferred-citation:
       given-names: Hideo
     - family-names: Inoue
       given-names: Koki
-  journal: "Scientific Reports"
+  journal: ""
   year: 2026
-  notes: "submitted"
+  notes: ""
